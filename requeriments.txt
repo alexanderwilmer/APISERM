@@ -1,0 +1,7 @@
+django==2.2.20
+djangorestframework
+django-registration
+Pillow
+psycopg2
+psycopg2-binary
+six
